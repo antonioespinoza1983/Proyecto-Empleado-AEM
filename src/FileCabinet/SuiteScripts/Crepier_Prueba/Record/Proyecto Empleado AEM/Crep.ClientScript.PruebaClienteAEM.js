@@ -2,6 +2,9 @@
  * @NApiVersion 2.1
  * @NScriptType ClientScript
  * @NModuleScope SameAccount
+ * @NSNameProject Proyecto Empleado AEM 
+ * @NSScripId customscript_cs_pe_pruebaempleado_aem
+ * @NSDeployId customdeploy_cs_pe_pruebaempleado_aem
  */
 define(['N/currentRecord'],
 
